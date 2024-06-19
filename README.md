@@ -17,6 +17,5 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-151515?style=for-the-badge&logo=AdobePhotoshop)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-151515?style=for-the-badge&logo=CorelDRAW)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-151515?style=for-the-badge&logo=AdobeIllustrator)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-151515?style=for-the-badge&logo=AdobeIllustrator)
 
 Follow Me
