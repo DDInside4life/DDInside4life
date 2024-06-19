@@ -12,9 +12,11 @@
 ![React](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-151515?style=for-the-badge&logo=TypeScript)
 ![PHP](https://img.shields.io/badge/-PHP-151515?style=for-the-badge&logo=PHP)
+![mySQL](https://img.shields.io/badge/-SQL-151515?style=for-the-badge&logo=mySQL)
 ![Figma](https://img.shields.io/badge/-Figma-151515?style=for-the-badge&logo=Figma)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-151515?style=for-the-badge&logo=AdobePhotoshop)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-151515?style=for-the-badge&logo=CorelDRAW)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-151515?style=for-the-badge&logo=AdobeIllustrator)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-151515?style=for-the-badge&logo=AdobeIllustrator)
 
 Follow Me
