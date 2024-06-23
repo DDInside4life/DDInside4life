@@ -19,4 +19,8 @@
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-151515?style=for-the-badge&logo=CorelDRAW)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-151515?style=for-the-badge&logo=AdobeIllustrator)
 
-Follow Me
+## Contacts
+
+![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=HTML5)
+![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=HTML5)
+![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=HTML5)
