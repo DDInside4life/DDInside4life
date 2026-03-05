@@ -4,23 +4,28 @@
 
 ## Languages and Tools
 
+### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-151515?style=for-the-badge&logo=CSS3&logoColor=0277BD)
+![CSS](https://img.shields.io/badge/-CSS-151515?style=for-the-badge&logo=CSS)
 ![SCSS](https://img.shields.io/badge/-SCSS-151515?style=for-the-badge&logo=SASS)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-151515?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=for-the-badge&logo=JavaScript)
 ![jQuery](https://img.shields.io/badge/-jQuery-151515?style=for-the-badge&logo=jQuery)
-![React](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=React)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-151515?style=for-the-badge&logo=TypeScript)
-![PHP](https://img.shields.io/badge/-PHP-151515?style=for-the-badge&logo=PHP)
+![React](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=React)
+![NEXT.jsjs](https://img.shields.io/badge/-Next.js-151515?style=for-the-badge&logo=nextdotjs)
+
+### Backend
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-151515?style=for-the-badge&logo=dotnet)
 ![Node.js](https://img.shields.io/badge/-Node.js-151515?style=for-the-badge&logo=Node.js)
 ![mySQL](https://img.shields.io/badge/-SQL-151515?style=for-the-badge&logo=mySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-151515?style=for-the-badge&logo=postgresql)
+
+### Design
+
 ![Figma](https://img.shields.io/badge/-Figma-151515?style=for-the-badge&logo=Figma)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-151515?style=for-the-badge&logo=AdobePhotoshop)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-151515?style=for-the-badge&logo=CorelDRAW)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-151515?style=for-the-badge&logo=AdobeIllustrator)
 
 ## Contacts
 
-![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=HTML5)
-![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=HTML5)
-![HTML](https://img.shields.io/badge/-HTML-151515?style=for-the-badge&logo=HTML5)
+![Telegram](https://img.shields.io/badge/-Telegram-151515?style=for-the-badge&logo=telegram)
