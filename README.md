@@ -10,8 +10,8 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-151515?style=for-the-badge&logo=SASS)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-151515?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-151515?style=for-the-badge&logo=JavaScript)
-![jQuery](https://img.shields.io/badge/-jQuery-151515?style=for-the-badge&logo=jQuery)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-151515?style=for-the-badge&logo=TypeScript)
+![jQuery](https://img.shields.io/badge/-jQuery-151515?style=for-the-badge&logo=jQuery)
 ![React](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=React)
 ![NEXT.jsjs](https://img.shields.io/badge/-Next.js-151515?style=for-the-badge&logo=nextdotjs)
 
