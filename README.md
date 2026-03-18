@@ -1,6 +1,6 @@
 [![Header](https://github.com/DDInside4life/DDInside4life/blob/main/assets/LOGO.svg)](https://ddinside4life.github.io/myPortfolio/index.html)
 
-## I'm a fullstack web-developer and software engineer
+## I'm a Fullstack Web-Developer
 
 ## Languages and Tools
 
