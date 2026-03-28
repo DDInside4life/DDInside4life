@@ -18,7 +18,7 @@
 ### Backend
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-151515?style=for-the-badge&logo=dotnet)
 ![Node.js](https://img.shields.io/badge/-Node.js-151515?style=for-the-badge&logo=Node.js)
-![mySQL](https://img.shields.io/badge/-SQL-151515?style=for-the-badge&logo=mySQL)
+![MySQL](https://img.shields.io/badge/-SQL-151515?style=for-the-badge&logo=mySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-151515?style=for-the-badge&logo=postgresql)
 
 ### Design
